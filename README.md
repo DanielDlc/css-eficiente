@@ -8,7 +8,7 @@ O conteúdo abaixo, contém um pequeno tutorial sobre a estrutura básica de uma
 um uma explicação mais detalhada sobre css.
 
 ### Inicialmente iremos criar o html 
-Criar arquivo `index.hml` um diretório `css` e `img`
+- Criar arquivo `index.html` um diretório `css` e `img`
 - Foi criado uma DOCTYPE html
 - Adicionando charset para pegar os acentos e viewport para colocar o site responsivo
 - adicionando initial-scale=1.0, shrink-to-fit=no para não "esmagar o site"
@@ -23,6 +23,6 @@ Criar arquivo `index.hml` um diretório `css` e `img`
 - footer e colocando uma div para não pegar ponta a ponta e uma imagem para o final.
 
 ### Style css
-- dentro do diretório css,`criar um arquivo style.css`
+- dentro do diretório css, criar um arquivo `style.css`
 - inicialmente irei remover margin e padding 
 - adicionar fonte Georgia e cor padrão #252525
