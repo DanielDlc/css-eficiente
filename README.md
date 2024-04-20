@@ -1,5 +1,7 @@
 # css-eficiente
 
+[Book](https://github.com/free-educa/books/blob/main/books/CSS%20Eficiente.pdf)
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielDlc/Django/blob/main/LICENSE)
 
 ## Sobre o projeto
